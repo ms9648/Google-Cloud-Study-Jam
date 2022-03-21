@@ -13,4 +13,3 @@ gcloud compute project-info describe --project <your_project_ID>
 > `google-compute-default-region` 및 `google-compute-default-zone` 키와 값이 출력에서 빠져 있는 경우 기본 영역이나 리전이 설정되지 않은 것입니다.
 
 ### 환경 변수 설정
-test
